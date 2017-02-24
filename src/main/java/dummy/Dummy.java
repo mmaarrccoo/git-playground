@@ -6,5 +6,5 @@ public class Dummy {
 
 	private String test;
 
-	private float percent = 1.0f;
+	private float percent = 0.9f;
 }
