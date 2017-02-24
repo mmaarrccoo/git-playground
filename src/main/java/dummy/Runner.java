@@ -1,4 +1,4 @@
-package de.package1;
+package dummy;
 
 public class Runner {
 
